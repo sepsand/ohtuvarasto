@@ -1,0 +1,6 @@
+# ignore tmp files
+/*.tmp
+
+# ignore python cache files
+/__pycache__/
+/.pytest_cache/
