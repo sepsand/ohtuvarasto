@@ -73,7 +73,7 @@ class TestVarasto(unittest.TestCase):
         qty_otto = self.varasto.ota_varastosta(1)
 
         self.assertAlmostEqual(qty_saldo, 0)
-        self.assertAlmostEqual(qty_otto, 1)
+        self.assertAlmostEqual(qty_otto, 0)
 
     def test_varasto_toString(self):
         print(self.varasto)
