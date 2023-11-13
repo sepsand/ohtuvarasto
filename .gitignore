@@ -6,5 +6,5 @@ __pycache__/
 .pytest_cache/
 
 # ignore coverage files
-/.coveragerc
+/.coverage
 /htmlcov/
