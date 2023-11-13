@@ -77,3 +77,4 @@ class TestVarasto(unittest.TestCase):
 
     def test_varasto_toString(self):
         print(self.varasto)
+        
