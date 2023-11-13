@@ -24,4 +24,4 @@ max-nested-blocks=2
 
 [DESIGN]
 max-statements=15
-max-locals=5
+max-locals=2
